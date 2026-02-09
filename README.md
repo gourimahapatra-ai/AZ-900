@@ -1,4 +1,4 @@
-# Azure Fundamentals Study Guide ( AZ-900 )
+# Azure Fundamentals Study Guide ( AI-900 )
 
 This study guide is designed to help individuals prepare for the AZ-900: Microsoft Azure Fundamentals certification exam. It provides a comprehensive list of resources organized by exam sections.
 
